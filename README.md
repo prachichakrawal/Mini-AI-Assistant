@@ -5,7 +5,7 @@ Mini AI Assistant – Sarah
 A simple yet interactive Mini AI Assistant built using Java, applying OOP concepts, and executed in VS Code.
 This project demonstrates how basic AI-like conversational behavior can be implemented using Java classes, methods, loops, and date/time functions.
 
-📌 Features
+ Features
 
 Greets the user with personalized messages
 
@@ -19,19 +19,19 @@ Runs in the console
 
 Beginner-friendly and easy to extend
 
-🛠️ Technologies Used
+ Technologies Used
 Component	Description
 Java	Core logic & OOP implementation
 VS Code	IDE used for development
 Java Libraries	Scanner, Random, Date, Calendar, SimpleDateFormat
-📂 Project Structure
+ Project Structure
 Mini-AI-Assistant/
 │
 ├── Sarah.java        # Main source code for AI assistant
 ├── README.md         # Project documentation
 └── (space for additional files/features)
 
-⚙️ How the Code Works
+ How the Code Works
 1. User Input Handling
 
 Uses Scanner class to take input such as:
@@ -67,7 +67,7 @@ A while or do-while loop keeps the assistant active until the user exits.
 ✔ Encapsulation
 ✔ Basic interaction design
 
-🚀 How to Run
+ How to Run
 
 Install Java JDK 8+
 
